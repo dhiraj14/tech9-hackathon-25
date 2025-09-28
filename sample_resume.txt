@@ -1,0 +1,51 @@
+John Doe
+Senior Software Engineer
+Email: john.doe@example.com
+Phone: (555) 123-4567
+Location: San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Experienced full-stack software engineer with 8+ years developing scalable web applications using modern frameworks. Expertise in Ruby on Rails, React, PostgreSQL, and cloud technologies. Strong background in API design, database optimization, and DevOps practices.
+
+TECHNICAL SKILLS
+- Programming Languages: Ruby, JavaScript, TypeScript, Python, Java
+- Backend Frameworks: Ruby on Rails, Node.js, Express.js, Django
+- Frontend Technologies: React, Vue.js, HTML5, CSS3, Tailwind CSS
+- Databases: PostgreSQL, MySQL, MongoDB, Redis
+- Cloud & DevOps: AWS (EC2, S3, RDS, Lambda), Docker, Kubernetes, GitHub Actions
+- Testing: RSpec, Jest, Cypress, Selenium
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | TechCorp Inc. | Jan 2020 - Present
+- Lead development of microservices architecture serving 1M+ daily active users
+- Built and maintained Ruby on Rails APIs with PostgreSQL database optimization
+- Implemented React-based admin dashboard reducing operational overhead by 40%
+- Collaborated with DevOps team to deploy applications using Docker and Kubernetes
+- Mentored 3 junior developers and conducted code reviews
+
+Software Engineer | StartupXYZ | Jun 2017 - Dec 2019
+- Developed full-stack web applications using Ruby on Rails and React
+- Designed and implemented RESTful APIs for mobile and web applications
+- Optimized database queries resulting in 60% performance improvement
+- Integrated third-party payment systems and APIs
+- Participated in agile development process with bi-weekly sprints
+
+Junior Developer | WebSolutions LLC | Aug 2015 - May 2017
+- Built responsive web interfaces using HTML, CSS, and JavaScript
+- Worked with senior developers on Ruby on Rails applications
+- Contributed to database design and data migration scripts
+- Assisted in debugging and troubleshooting production issues
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of California, Berkeley | 2015
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect (2021)
+- Ruby on Rails Certification (2018)
+
+PROJECTS
+- E-commerce Platform: Built complete online shopping platform with Ruby on Rails backend and React frontend
+- Task Management API: RESTful API with authentication, real-time updates, and comprehensive testing
+- Data Analytics Dashboard: Interactive dashboard using D3.js and PostgreSQL for business intelligence
